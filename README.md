@@ -17,7 +17,6 @@ I am:
 ![](https://skillicons.dev/icons?i=docker,markdown,vscode,vscodium,raspberrypi,postman)
 
 You can find me:
-- ![](https://skillicons.dev/icons?i=discord)
 - ![](https://skillicons.dev/icons?i=gitlab) https://forge.univ-lyon1.fr/p2206917
 - ![](https://skillicons.dev/icons?i=linkedin) [in/hugo-mayrand-74a53b251](https://www.linkedin.com/in/hugo-mayrand-74a53b251/)
 <!--
