@@ -1,5 +1,14 @@
-## Hi there 👋
+# Hi ! 👋
+I'm Hugo.
+I am:
+ - A 20 year old student
+ - Studying computer science
 
+## My skills
+### Database
+![](https://skillicons.dev/icons?i=mysql,postgresql,mongodb) and Oracle and Neo4J
+### Versionning tools
+![](https://skillicons.dev/icons?i=git,github,gitlab,trello)
 <!--
 **Urssaff/Urssaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
