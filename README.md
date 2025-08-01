@@ -6,11 +6,15 @@ I am:
 
 ## My skills
 ### Developpement
-![](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,angular,react,vue,php,regex,python,c,java,django,kotlin)
+![](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,angular,react,vue,php,regex,python,c,java,django,kotlin,symfony,ros)
 ### Database
 ![](https://skillicons.dev/icons?i=mysql,postgresql,mongodb) and Oracle and Neo4J
-### Versionning tools
+### Versionning tool
 ![](https://skillicons.dev/icons?i=git,github,gitlab,trello)
+### Operating system
+![](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian)
+### Other
+![](https://skillicons.dev/icons?i=docker,markdown,vscode,vscodium,raspberrypi,postman)
 <!--
 **Urssaff/Urssaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
