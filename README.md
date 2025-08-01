@@ -5,6 +5,8 @@ I am:
  - Studying computer science
 
 ## My skills
+### Developpement
+![](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,angular,react,vue,php,regex,python,c,java,django,kotlin)
 ### Database
 ![](https://skillicons.dev/icons?i=mysql,postgresql,mongodb) and Oracle and Neo4J
 ### Versionning tools
