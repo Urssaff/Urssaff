@@ -6,7 +6,7 @@ I am:
 
 ## My skills
 ### Developpement
-![](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,angular,react,vue,php,regex,python,c,java,django,kotlin,symfony,ros&perline=5)
+![](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,angular,react,vue,php,regex,python,c,java,django,kotlin,symfony,ros&perline=3)
 ### Database
 ![](https://skillicons.dev/icons?i=mysql,postgresql,mongodb) and Oracle and Neo4J
 ### Versionning tool
@@ -14,7 +14,7 @@ I am:
 ### Operating system
 ![](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian)
 ### Other
-![](https://skillicons.dev/icons?i=docker,markdown,vscode,vscodium,raspberrypi,postman)
+![](https://skillicons.dev/icons?i=docker,markdown,vscode,vscodium,raspberrypi,postman&perline=3)
 
 You can find me:
 - ![](https://skillicons.dev/icons?i=gitlab) https://forge.univ-lyon1.fr/p2206917
